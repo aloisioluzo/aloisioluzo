@@ -11,7 +11,9 @@
 
 Estudante de programação, atualmente aprendendo:
 
-<img src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg" with="50px" height="50px"></img> <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" with="50px" height="50px"></img> <img src="https://devicon-website.vercel.app/api/github/original.svg" with="50px" height="50px;" style="background:white;">, <img src="https://devicon-website.vercel.app/api/javascript/original.svg" with="50px" height="50px">. Voltando aos caminhos da programação Front End.
+<img src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg" with="50px" height="50px"></img> <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" with="50px" height="50px"></img> <img src="https://devicon-website.vercel.app/api/github/original.svg" with="50px" height="50px;" style="background:white;"> <img src="https://devicon-website.vercel.app/api/javascript/original.svg" with="50px" height="50px">. 
+
+Voltando aos caminhos da programação Front End.
 
 <picture>
   <source
@@ -30,6 +32,7 @@ Estudante de programação, atualmente aprendendo:
 </a>
 </picture>
 
+<hr>
 
 
 
