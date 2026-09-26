@@ -85,18 +85,6 @@ Não quero apenas conhecer ferramentas. Quero utilizá-las para criar coisas que
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/aloisioluzo/mariano-montador">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloisioluzo&repo=mariano-montador&theme=dark&title_color=F5C400&icon_color=F5C400&border_color=F5C400" />
-</a>
-
-<a href="https://github.com/aloisioluzo/yu-gi-oh-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aloisioluzo&repo=yu-gi-oh-portfolio&theme=dark&title_color=F5C400&icon_color=F5C400&border_color=F5C400" />
-</a>
-
-</div>
-
 ### 🛠️ Mariano Montador
 
 Landing page criada para apresentação de serviços e geração de orçamento através do WhatsApp.
