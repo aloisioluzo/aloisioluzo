@@ -26,6 +26,12 @@
 
 </div>
 
+<div align="center">
+
+🇧🇷 Português · <a href="./README.en.md">🇺🇸 English</a> · <a href="./README.es.md">🇪🇸 Español</a>
+
+</div>
+
 ---
 
 ## 👋 Minha história
