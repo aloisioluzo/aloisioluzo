@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:F5C400,100:111111&height=190&section=header&text=Alo%C3%ADsio%20Luzo&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Suporte%20S%C3%AAnior%20%7C%20Front-End%20%7C%20IA&descAlignY=62&descSize=20" width="100%" />
 
   <a href="https://github.com/aloisioluzo">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=F5C400&center=true&vCenter=true&width=650&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es.;Construindo+interfaces+e+experi%C3%AAncias+digitais.;Front-End+%7C+Automa%C3%A7%C3%A3o+%7C+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=F5C400&center=true&vCenter=true&width=650&lines=Transformando+problemas+em+solu%C3%A7%C3%B5es.;Construindo+interfaces+digitais.;Front-End+%7C+Automa%C3%A7%C3%A3o+%7C+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
   </a>
 
   <br />
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/aloisiosantos99/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5C400" />
   </a>
-  <a href="mailto:aloisio.luzo@gmail.com">
+  <a href="mailto:aloisiohomeoffice@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=F5C400" />
   </a>
   <a href="https://github.com/aloisioluzo?tab=repositories">
@@ -137,18 +137,6 @@ Novas formas de criar, automatizar e resolver problemas.
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aloisioluzo&show_icons=true&theme=dark&hide_border=true&title_color=F5C400&icon_color=F5C400&locale=pt-br" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloisioluzo&layout=compact&theme=dark&hide_border=true&title_color=F5C400&locale=pt-br" />
-
-</div>
 
 ---
 
