@@ -15,7 +15,7 @@
   <br />
 
   <a href="https://www.linkedin.com/in/aloisiosantos99/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5C400" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5C400&labelColor=111111" />
   </a>
   <a href="mailto:aloisiohomeoffice@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=F5C400" />
@@ -52,7 +52,7 @@ Mi objetivo es unir la experiencia adquirida en soporte con **Front-End, automat
 
 ### 🧠 Mi forma de pensar
 
-**Entender → Planejar → Construir → Testar → Melhorar**
+**Entender → Planificar → Construir → Probar → Mejorar**
 
 No quiero simplemente conocer herramientas. Quiero utilizarlas para crear cosas que tengan sentido.
 
@@ -72,7 +72,7 @@ No quiero simplemente conocer herramientas. Quiero utilizarlas para crear cosas 
 
 <br />
 
-### ⚙️ Web, Dados & Ferramentas
+### ⚙️ Web, Datos y Herramientas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" title="PHP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" title="MySQL" />
@@ -97,7 +97,7 @@ Landing page creada para presentar servicios y generar presupuestos a través de
 
 **HTML · Tailwind CSS · JavaScript**
 
-[→ Ver repositório](https://github.com/aloisioluzo/mariano-montador) · [→ Ver projeto](https://mariano-montador.vercel.app/)
+[→ Ver repositorio](https://github.com/aloisioluzo/mariano-montador) · [→ Ver proyecto](https://mariano-montador.vercel.app/)
 
 > Proyecto desarrollado con apoyo de herramientas de IA, con mi participación en la personalización, edición y evolución del código.
 
@@ -107,7 +107,7 @@ Proyecto práctico de Front-End centrado en **consumo de API, manipulación del 
 
 **HTML · CSS · JavaScript · API**
 
-[→ Ver repositório](https://github.com/aloisioluzo/yu-gi-oh-portfolio)
+[→ Ver repositorio](https://github.com/aloisioluzo/yu-gi-oh-portfolio)
 
 ---
 
@@ -128,7 +128,7 @@ Interfaces, páginas y experiencias digitales.
 <td align="center" width="33%">
 
 ### ⚙️
-### Automação
+### Automatización
 
 Procesos conectados y soluciones más eficientes.
 
@@ -151,7 +151,7 @@ Nuevas formas de crear, automatizar y resolver problemas.
 ### ⚡ Construir. Probar. Mejorar.
 
 <a href="https://github.com/aloisioluzo?tab=repositories">
-  <img src="https://img.shields.io/badge/Explorar%20meus%20projetos-F5C400?style=for-the-badge&logo=github&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Explorar%20mis%20proyectos-F5C400?style=for-the-badge&logo=github&logoColor=111111" />
 </a>
 
 <br /><br />
