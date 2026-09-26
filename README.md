@@ -15,7 +15,7 @@
   <br />
 
   <a href="https://www.linkedin.com/in/aloisiosantos99/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5C400" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5C400&labelColor=111111" />
   </a>
   <a href="mailto:aloisiohomeoffice@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=F5C400" />
