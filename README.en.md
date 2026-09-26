@@ -15,7 +15,7 @@
   <br />
 
   <a href="https://www.linkedin.com/in/aloisiosantos99/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5C400" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5C400&labelColor=111111" />
   </a>
   <a href="mailto:aloisiohomeoffice@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=F5C400" />
@@ -52,7 +52,7 @@ My goal is to combine my support experience with **Front-End, automation, and Ar
 
 ### 🧠 How I think
 
-**Entender → Planejar → Construir → Testar → Melhorar**
+**Understand → Plan → Build → Test → Improve**
 
 I do not want to simply know tools. I want to use them to build things that make sense.
 
@@ -72,7 +72,7 @@ I do not want to simply know tools. I want to use them to build things that make
 
 <br />
 
-### ⚙️ Web, Dados & Ferramentas
+### ⚙️ Web, Data & Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" title="PHP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" title="MySQL" />
@@ -97,7 +97,7 @@ Landing page created to present services and generate quotes through WhatsApp.
 
 **HTML · Tailwind CSS · JavaScript**
 
-[→ Ver repositório](https://github.com/aloisioluzo/mariano-montador) · [→ Ver projeto](https://mariano-montador.vercel.app/)
+[→ View repository](https://github.com/aloisioluzo/mariano-montador) · [→ View project](https://mariano-montador.vercel.app/)
 
 > Project developed with the support of AI tools, with my participation in customizing, editing, and evolving the code.
 
@@ -107,7 +107,7 @@ Practical Front-End project focused on **API consumption, DOM manipulation, resp
 
 **HTML · CSS · JavaScript · API**
 
-[→ Ver repositório](https://github.com/aloisioluzo/yu-gi-oh-portfolio)
+[→ View repository](https://github.com/aloisioluzo/yu-gi-oh-portfolio)
 
 ---
 
@@ -128,7 +128,7 @@ Interfaces, pages, and digital experiences.
 <td align="center" width="33%">
 
 ### ⚙️
-### Automação
+### Automation
 
 Connected processes and more efficient solutions.
 
@@ -136,7 +136,7 @@ Connected processes and more efficient solutions.
 <td align="center" width="33%">
 
 ### 🤖
-### IA
+### AI
 
 New ways to create, automate, and solve problems.
 
@@ -151,7 +151,7 @@ New ways to create, automate, and solve problems.
 ### ⚡ Build. Test. Improve.
 
 <a href="https://github.com/aloisioluzo?tab=repositories">
-  <img src="https://img.shields.io/badge/Explorar%20meus%20projetos-F5C400?style=for-the-badge&logo=github&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Explore%20my%20projects-F5C400?style=for-the-badge&logo=github&logoColor=111111" />
 </a>
 
 <br /><br />
